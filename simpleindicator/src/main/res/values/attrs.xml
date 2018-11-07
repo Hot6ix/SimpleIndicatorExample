@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Indicator">
+        <attr name="selected" format="integer" />
+        <attr name="indicatorCount" format="integer" />
+        <attr name="indicatorRadius" format="dimension" />
+        <attr name="indicatorColor" format="color" />
+        <attr name="indicatorSelectedColor" format="color" />
+        <attr name="indicatorSpaceBetween" format="dimension" />
+        <attr name="indicatorStrokeWidth" format="dimension" />
+        <attr name="indicatorStrokeColor" format="color" />
+    </declare-styleable>
+</resources>
