@@ -1,7 +1,7 @@
 # Simple Indicator
-Simple indicator for Android
+Simple indicator library for Android
 
-Very simple indicator for light app.
+Very simple indicator library for light app.
 
 ![Image](https://imgur.com/dS0cz3R.gif)
 
